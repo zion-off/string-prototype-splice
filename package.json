@@ -1,5 +1,5 @@
 {
-  "name": "string-splice",
+  "name": "string-prototype-splice",
   "version": "1.0.0",
   "description": "Simplifies string manipulation by adding a splice method to String.prototype",
   "main": "dist/index.js",
